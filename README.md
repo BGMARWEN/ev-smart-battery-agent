@@ -98,3 +98,24 @@ Charging station accuracy depends on the station dataset and the method used to 
 ## 📄 License
 
 No license has been added yet.
+
+## 📸 Application Screenshots
+
+### 1. Main Dashboard
+
+The main interface displays the battery charge, temperature, current speed, estimated driving range, and nearest charging station.
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### 2. AI Agent Recommendations
+
+The AI agent analyzes the initial vehicle inputs and provides battery-related recommendations, including an optimal speed suggestion.
+
+![AI Agent Recommendations](screenshots/ai-recommendations.png)
+
+### 3. Updated Inputs and Recommendations
+
+The dashboard demonstrates how the AI agent's recommendations change when the vehicle input values are updated.
+
+![Updated Inputs and Recommendations](screenshots/updated-inputs-recommendations.png)
+
